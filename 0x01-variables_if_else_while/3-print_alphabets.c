@@ -8,7 +8,7 @@
  *
  *   *
  *
- *    * Description: print the letters of the alphabet in lower then in uppercase
+ *    * Description: prints the alphabet in lowercase, and then in uppercase, followed by a new line.
  *
  *     *
  *
