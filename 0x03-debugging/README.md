@@ -1,1 +1,1 @@
-In most projects,
+Copy this main file
