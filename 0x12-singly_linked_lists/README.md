@@ -1,1 +1,1 @@
-function that returns the number of elements in a linked
+Write a function that adds a new node at the beginning 
